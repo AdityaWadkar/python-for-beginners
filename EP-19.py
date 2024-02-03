@@ -11,15 +11,15 @@ my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
 print("Dictionary:", my_dict)
 
 # Accessing values in a dictionary
-# print("Age:", my_dict['age'])
+print("Age:", my_dict['age'])
 
-# # Modifying values in a dictionary
-# my_dict['age'] = 26
-# print("Modified dictionary:", my_dict)
+# Modifying values in a dictionary
+my_dict['age'] = 26
+print("Modified dictionary:", my_dict)
 
-# # Adding a new key-value pair
-# my_dict['gender'] = 'Male'
-# print("Dictionary with new pair:", my_dict)
+# Adding a new key-value pair
+my_dict['gender'] = 'Male'
+print("Dictionary with new pair:", my_dict)
 
 # # adding multiple types of values
 my_dict = {'name': 'John', 
