@@ -17,14 +17,6 @@ Embark on your coding journey with our Python Beginners Playlist! 🐍 This care
 **Mastering Functions and Modules**: Level up your coding skills by mastering functions and modules in Python. 📦
 
 
-## 📖 Repository Contents:
-**Source Code**: Access the source code for each tutorial in the 'src' directory.
-
-**Hands-On Exercises**: Practice your skills with the exercises provided in the 'exercises' directory.
-
-**Project Files**: Find project files for the fun Python projects in the 'projects' directory.
-
-
 ## 🌐 Connect with Us:
 [Python Beginners Playlist 🎬](https://youtube.com/playlist?list=PLPpQfM8osfzwo_eDlIVJaLqlPHGAigPSH&si=1xaX8MpaTReSEINp)
 
